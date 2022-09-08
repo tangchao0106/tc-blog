@@ -25,7 +25,7 @@ module.exports = {
 
       {
         text: "GitHub",
-        icon: "reco-message",
+        // icon: "reco-message",
         link: "https://github.com/tangchao0106",
       },
     ],

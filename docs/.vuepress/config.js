@@ -1,7 +1,7 @@
 module.exports = {
   title: "唐超笔记",
   description: "2022",
-  base: "/page3/",
+  base: "/tc-blog/",
   theme: "reco",
   // theme: "@vuep/ress/blog",
   locales: {

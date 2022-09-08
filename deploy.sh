@@ -19,6 +19,6 @@ git commit -m 'deploy1'
 
 # git push -f git@github.com:tangchao0106.github.io.git master
 
-git push -f git@github.com:tangchao0106/page3.git master:gh-pages
+git push -f git@github.com:tangchao0106/tc-blog.git master:gh-pages
 
 cd -

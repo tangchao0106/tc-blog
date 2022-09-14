@@ -14,7 +14,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'deploy3'
+git commit -m '关于输入框非空的判断'
 
 
 # git push -f git@github.com:tangchao0106.github.io.git master

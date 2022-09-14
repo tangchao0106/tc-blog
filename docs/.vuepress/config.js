@@ -46,14 +46,26 @@ module.exports = {
             title: "在 Vue 中为什么不推荐用 index 做 key",
             path: "/vuebook/1",
           },
-          { title: "笔记", path: "/vuebook/2" },
+          { title: "虚拟 DOM", path: "/vuebook/虚拟 DOM" },
+          { title: "nextTick 实现原理", path: "/vuebook/nextTick 实现原理" },
+          { title: "视频笔记", path: "/vuebook/2" },
         ],
       },
       {
         title: "JS系列",
         path: "/jsbook/2",
         collapsable: true,
-        children: [{ title: "call apply bind 笔记", path: "/jsbook/2" }],
+        children: [
+          { title: "call apply bind 笔记", path: "/jsbook/2" },
+          {
+            title: "关于输入框非空的判断",
+            path: "/jsbook/关于输入框非空的判断",
+          },
+          {
+            title: "Promise易错点",
+            path: "/jsbook/Promise易错点",
+          },
+        ],
       },
       {
         title: "工具类",

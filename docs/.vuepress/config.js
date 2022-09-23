@@ -48,7 +48,10 @@ module.exports = {
           },
           { title: "虚拟 DOM", path: "/vuebook/虚拟 DOM" },
           { title: "nextTick 实现原理", path: "/vuebook/nextTick 实现原理" },
-          { title: "vue2源码生命周期合并策略梳理", path: "/vuebook/vue2源码生命周期合并策略梳理" },
+          {
+            title: "vue2源码生命周期合并策略梳理",
+            path: "/vuebook/vue2源码生命周期合并策略梳理",
+          },
 
           { title: "视频笔记", path: "/vuebook/2" },
         ],
@@ -63,10 +66,10 @@ module.exports = {
             title: "关于输入框非空的判断",
             path: "/jsbook/关于输入框非空的判断",
           },
-          {
-            title: "Promise易错点",
-            path: "/jsbook/Promise易错点",
-          },
+          // {
+          //   title: "Promise易错点",
+          //   path: "/jsbook/Promise易错点",
+          // },
         ],
       },
       {
@@ -79,6 +82,17 @@ module.exports = {
             path: "/book/1",
           },
           // { title: "第二篇", path: "/handbook/2" },
+        ],
+      },
+      {
+        title: "业务",
+        path: "/work/二次设备",
+        collapsable: true,
+        children: [
+          {
+            title: "二次设备",
+            path: "/work/二次设备",
+          },
         ],
       },
     ],

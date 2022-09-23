@@ -48,6 +48,8 @@ module.exports = {
           },
           { title: "虚拟 DOM", path: "/vuebook/虚拟 DOM" },
           { title: "nextTick 实现原理", path: "/vuebook/nextTick 实现原理" },
+          { title: "vue2源码生命周期合并策略梳理", path: "/vuebook/vue2源码生命周期合并策略梳理" },
+
           { title: "视频笔记", path: "/vuebook/2" },
         ],
       },
